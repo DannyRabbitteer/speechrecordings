@@ -1,0 +1,20 @@
+ljspeech-spec-00001.npy|ljspeech-mel-00001.npy|283|I've paid my dues.
+ljspeech-spec-00002.npy|ljspeech-mel-00002.npy|283|Time after time.
+ljspeech-spec-00003.npy|ljspeech-mel-00003.npy|168|I've done my sentence
+ljspeech-spec-00004.npy|ljspeech-mel-00004.npy|238|But committed no crime.
+ljspeech-spec-00005.npy|ljspeech-mel-00005.npy|147|And bad mistakes
+ljspeech-spec-00006.npy|ljspeech-mel-00006.npy|180|I've made a few.
+ljspeech-spec-00007.npy|ljspeech-mel-00007.npy|269|I've had my share of sand kicked in my face
+ljspeech-spec-00008.npy|ljspeech-mel-00008.npy|186|But I've come through.
+ljspeech-spec-00009.npy|ljspeech-mel-00009.npy|487|We are the champions, my friends,
+ljspeech-spec-00010.npy|ljspeech-mel-00010.npy|310|We are the champions.
+ljspeech-spec-00011.npy|ljspeech-mel-00011.npy|307|We are the champions.
+ljspeech-spec-00012.npy|ljspeech-mel-00012.npy|285|No time for losers
+ljspeech-spec-00013.npy|ljspeech-mel-00013.npy|983|'Cause we are the champions of the world.
+ljspeech-spec-00014.npy|ljspeech-mel-00014.npy|566|I've taken my bows. And my curtain calls.
+ljspeech-spec-00015.npy|ljspeech-mel-00015.npy|372|You brought me fame and fortune, and everything that goes with it.
+ljspeech-spec-00016.npy|ljspeech-mel-00016.npy|167|I thank you all.
+ljspeech-spec-00017.npy|ljspeech-mel-00017.npy|618|But it's been no bed of roses, No pleasure cruise.
+ljspeech-spec-00018.npy|ljspeech-mel-00018.npy|519|I CONSIDER IT A CHALLENGE BEFORE THE WHOLE HUMAN RACE, AND I AIN'T GONNA LOOOOOOOSE
+ljspeech-spec-00019.npy|ljspeech-mel-00019.npy|510|Weeeeeeeee are the champions, my friends
+ljspeech-spec-00020.npy|ljspeech-mel-00020.npy|542|Aaaaand we'll keep on fighting 'til the end.
